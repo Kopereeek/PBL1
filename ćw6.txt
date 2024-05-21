@@ -1,0 +1,16 @@
+<head>
+    <body>
+        <link rel="stylesheet" href="C:\Users\agabe\Desktop\Strona\Główny\Styl.css">
+        <nav class="menu">
+            <div class="dropdown">
+                <a href="file:///C:/Users/agabe/Desktop/Strona/G%C5%82%C3%B3wny/Strona.html">Główna</a>
+                <a href="file:///C:/Users/agabe/Desktop/Strona/G%C5%82%C3%B3wny/%C4%86wiczenie.html">Ćwiczenia</a>
+                <a href="file:///C:/Users/agabe/Desktop/Strona/G%C5%82%C3%B3wny/Profil.html">Profil</a>
+            </div>
+        </nav>
+    </body>
+    </head>
+
+
+    <center><h1 style="margin-top: 70px;font-size: xx-large;color: black;">Relaksacja głosu:</h1></center>
+    <center><div style="color:black">Ćwiczenie mające na celu rozluźnienie mięśni głosowych i poprawę komfortu podczas mówienia.</div></center>
